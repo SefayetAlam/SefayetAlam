@@ -2,6 +2,9 @@
 <h3 align="center">A Competitive programmer, passionate MERN (full stack) developer and Machine Learning enthusiast from Bangladesh.<br/> B.Sc in CSE student@RUET || Competitive Programmer || Expert@Codeforces || 4 🌟 @Codechef || 6 Kyu(Green) @Atcoder || MERN beginner</h3>
 
 
+#### my real github: https://github.com/Sefayet-Alam 
+#### Know more about me:  https://sefayet-alam.vercel.app/
+
 
 <h3 class="heading-element" dir="auto">Total Profile Visitors 👀</h3><a id="user-content-total-profile-visitors-" class="anchor" aria-label="Permalink: Total Profile Visitors 👀" href="#total-profile-visitors-" >
 
